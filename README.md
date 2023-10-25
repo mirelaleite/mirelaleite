@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem-vindo ao meu perfil! 🥇
 
-<!--
-**mirelaleite/mirelaleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é mirela leite 
 
-Here are some ideas to get you started:
+. Estou estudando na plataforma arula.
+.; Estou me desenvolvendo na linguagemns javascript, html e Css.
+Utilizo este espaço para minha organizaçao e compartilhamento 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entra em contato comigo!📫
+
+leite.mirela@escola.pr.gov.br
+
+
+![](https://media.tenor.com/cdgu_rxP5vwAAAAd/cat-hiss.gif)
